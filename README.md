@@ -1,4 +1,6 @@
-### Hi there 👋
+# hey i am rocord 
+visit my website at rocord.cf
+### wow cool profile
 
 <!--
 **rocord01/rocord01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
