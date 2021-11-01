@@ -1,5 +1,5 @@
 # hey there 
-visit my website at [rocord.cf](https://rocord.cf)
+visit my website at [rocord.dev](https://rocord.dev)
 
 
 <!--
