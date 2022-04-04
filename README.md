@@ -1,6 +1,10 @@
 # hey there 
 visit my website at [rocord.dev](https://rocord.dev)
 
+<p align="center">
+<img height= "150" src="https://github-readme-stats.vercel.app/api?username=rocord01&theme=react&show_icons=true&include_all_commits=true" />
+</p>
+
 
 <!--
 **rocord01/rocord01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
